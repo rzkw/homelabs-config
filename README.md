@@ -1,5 +1,9 @@
 # labs-config
 
+<p align="center">
+<img src="/Users/rizky/Documents/GitHub/labs-config/reboot.gif"/>
+</p>
+
 Various configuration files and resources for my labs. Includes ufw, fail2ban, SSH, Grafana Alloy, nginx, Tailscale and useful links I've used to build my server.
 
 Lab runs [Ubuntu Server 25](https://releases.ubuntu.com/plucky/) on bare metal. Other specs:
@@ -10,4 +14,4 @@ Lab runs [Ubuntu Server 25](https://releases.ubuntu.com/plucky/) on bare metal. 
 - Storage: 58 GB SSD VID:90 HCG4a2
 - Graphics Card: Intel(R) HD Graphics (128 MB)
 
-Feedback always welcome!
+Feedback always welcome! A work in progress, links may be out of date
